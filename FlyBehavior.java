@@ -1,0 +1,5 @@
+package train;
+
+public interface FlyBehavior {
+	public  void fly();
+}
